@@ -33,9 +33,7 @@ This project is a UiPath automation workflow designed to retrieve and process em
 ## Output
 Below is a screenshot of the workflow output:
 
-![Workflow Output]
-<img src="output.png" alt="Sample Image">
-
+![Workflow Output](https://github.com/rewaaalaa7/EmailAutomation-RPA/blob/main/output.jpg)
 ## Contributing
 Feel free to fork this repository and submit pull requests for improvements. Please ensure any changes are tested before submission.
 
